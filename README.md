@@ -3,4 +3,4 @@ Antuñano et al. (2018) used Jupiter infrared data captured by 8 different groun
 
 DATA
 
-As descibed in Antuñano et al. (2018), the normalised average brightness from 1984-2017 was used to charcterise three different cloud clearance events of Jupiter's equatorial zone at 5 µm. The normalised average brightness is given in  
+As descibed in Antuñano et al. (2018), the normalised average brightness from 1984-2017 was used to charcterise three different cloud clearance events of Jupiter's equatorial zone at 5 µm. The normalised average brightness of the equatorial zone between ±7° latitude is given in "Brightness_scans_1984-2017.dat", where the first column represents the Julian date, the second column represents the latitude in planetocentric degrees, the third column represents the normalised average brightness and the fourth column gives the standard deviation of the normalised average brightness.   
