@@ -1,0 +1,2 @@
+# Repository-for-Jupiter-Equatorial-Zone-Disturbance-data
+Antuñano et al. (2018) used infrared data from Ground-based telescopes mounted on the Infrared Telescope Facility (IRTF) on Maunakea and Very Large Telescope (VLT) in Paranal. This repository contains (i) the cylindrical maps showing the Equatorial Zone disturbance used to build Figure 1 and Figure 3, and (ii) a data file showing the brightness scans from ±7° latitude as a function of time.   
